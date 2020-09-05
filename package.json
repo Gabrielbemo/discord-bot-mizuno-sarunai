@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-mizuno-sarunai",
+  "version": "1.0.0",
+  "description": "A perfect wife",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielbemo/discord-bot-mizuno-sarunai.git"
+  },
+  "author": "Gabriel Bernardes de Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabrielbemo/discord-bot-mizuno-sarunai/issues"
+  },
+  "homepage": "https://github.com/Gabrielbemo/discord-bot-mizuno-sarunai#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
